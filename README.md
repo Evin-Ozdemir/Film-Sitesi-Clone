@@ -1,4 +1,4 @@
-<div><h1>Netflix Clone</h1></div>
+<div><h1>Film Sitesi Clone</h1></div>
 <h4>A website where you can watch the movies you want</h4>
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
