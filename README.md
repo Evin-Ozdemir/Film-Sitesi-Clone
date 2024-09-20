@@ -4,6 +4,7 @@
  <div>
  <h2>Materials Used</h2>
  <ul>
+   <li>Javascript</li>
    <li>Html</li>
    <li>Css</li>
    <li>Responsive</li>
