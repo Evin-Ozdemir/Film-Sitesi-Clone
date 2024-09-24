@@ -15,8 +15,8 @@
 <div align='center'><h3>Video Status</h3></div>
 <div align='center'>
 
+![Zight Recording 2024-09-25 at 02 04 55 AM](https://github.com/user-attachments/assets/77a21178-80da-44d5-8b9a-f55564431c67)
 
-![Zight Recording 2024-09-25 at 01 47 46 AM](https://github.com/user-attachments/assets/f2f7f0a0-723b-416b-9505-6fbb0a661dab)
 
 
 </div>
