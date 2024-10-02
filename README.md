@@ -1,5 +1,5 @@
 
-<div><h1>🚀 Netflix Clone</h1></div>
+<div><h1>🚀 Movie Site Clone</h1></div>
 <h4>This project aims to create a modern and stylish movie website . Designed using HTML and CSS , the site offers an ideal website experience for moviegoers with popular movies, movie posters and content sections.</h4>
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
